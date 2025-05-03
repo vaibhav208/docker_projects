@@ -23,7 +23,7 @@ A collection of Docker-based projects demonstrating different aspects of contain
    ```bash
    git clone https://github.com/vaibhav208/docker_projects.git
    cd docker_projects
-````
+   ````
 
 2. Navigate to a project directory:
 
